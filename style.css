@@ -9,3 +9,7 @@ h1 {
 p {
     color: orange;
 }
+
+p {
+    border: 1px solid black;
+}
